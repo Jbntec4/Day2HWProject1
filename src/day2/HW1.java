@@ -13,6 +13,5 @@ This is coming from other team member
 	String firstName="yoel";
 	//name
 	
-	String firstName="abel";
 	
 }
